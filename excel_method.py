@@ -75,7 +75,7 @@ class excel_deal():
                 print(e)
                 break
         print(row)
-        # print(all_data)
+        print(all_data)
         return all_data
 
 
